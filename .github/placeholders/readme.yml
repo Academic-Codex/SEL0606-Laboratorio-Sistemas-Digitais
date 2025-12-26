@@ -1,0 +1,12 @@
+REPO_TAGLINE: Digital systems • hardware experiments • logic design
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: peace
+SITE_URL: https://academic-codex.github.io/SEL0606-Laboratorio-Sistemas-Digitais
+
+BG_1: "#0F172A"
+BG_2: "#1E293B"
+TEXT_MAIN: "#E5E7EB"
+TEXT_MUTED: "#9CA3AF"
+ACCENT: "#22D3EE"
+CARD_RADIUS: "14"
