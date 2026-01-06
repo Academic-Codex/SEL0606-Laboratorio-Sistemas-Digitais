@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SEL0606-Laboratorio-de-Sistemas-Digitais">
-    <img src=".github/readme/hero.svg?v=2026-01-06T14:34:15.380743Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-06T15:37:19.827646Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
