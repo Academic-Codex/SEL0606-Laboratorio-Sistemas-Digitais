@@ -1,10 +1,10 @@
 <!-- <p align="center">
-  <img src=".github/readme/theme.gif" width="100%" />
+  <img src="" width="100%" />
 </p> -->
 
 <p align="center">
-  <a href="https://academic-codex.github.io/SEL0606-Laboratorio-Sistemas-Digitais">
-    <img src=".github/readme/hero.svg?v=2025-12-28T18:35:20.572617Z" width="100%" alt="Access the course website" />
+  <a href="https://Academic-Codex.github.io/SEL0606-Laboratorio-de-Sistemas-Digitais">
+    <img src=".github/readme/hero.svg?v=2026-01-06T02:57:54.597315Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
